@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\df7bba1a86319df51e53d7577e5cd6144fe7f57d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_761c51be921768b800b5ee1baf3be01a5ad0f283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\6f99df0f68bded5707a9e92e9cacc3dc912b55b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_f0a18ed6311ad4c7d5d5f4006daeadb3b4da8150.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\8aa6dafeb66f8b4e8bea8123316e0c41588df598\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_70b545196e9f8563cc958a70f7982502318be35c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\73889c55443dedaa8427c00b9ce2b95733f3f3ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_1d14470089fb4284acd2e6b19b6e01e4c2a8e066.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\de17ecd776d71f9bf23014aa34c701d37ecbfcb4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_474ff25cb584e9b25edc3d606f37957b52c3aedb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_b544660367cb57d93ae7f5d57d5941a3a7e03e30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\c7497ee970b7989e262bfc5c90ddbc474cd320c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_a4d19b6a8f7e583acf26940d3a92d5a2574fafde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\5f6ddefb1c5297b8cf3514a5f53410f821bab7d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_1ffc6eb55cbb7bd8cc89113fba8f60bf2f92c0a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_0f0dbcefaa3512a8728c7059387ec8ad81e475a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\6df3576af48723d18dc44dcafea612ab7e0e24b2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_36c5d91943de0046eb4435667634cefbd5dffa10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\83ca373f2fb78d09797260a19aef26349eefca8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_360f239d75a143f6012a7ff25b420e7f46c78f40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\7aa35e503ae946cdcbb5d8d61c2c95a72c5a06a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_ffce5e120f6179bbd452c8cb96d969e670cf7d2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\c0b3f06e7e8c75c2639f10da6385609b8973ef15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_6b6b38cfeb79208144d0682d230455c2b9319083.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_d9aaed2e09b18d3ebe7165b0e8ee464fc1987430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\c8096f55bdaf5aae428456a6484219510a282eb5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_10fa984a4bf65890fcc738a2297f52ffcb66471e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\b3c67e9d88a9ef5e9228ba53a48922e2ee50fe08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_186bd2bf599b1877e59dbb540445bfa930cb081a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\4a9184e4291c0e8a9aad98ce301610416efc1ded\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_6cb92317eae3772a5ebb036a3e8f7f495bf04136.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\5ab0c82c12348419ee07254894eeb3d0a49cb631\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_7e94e56dcb38f2525f423e5d96f494d5d3aa2b3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SeanKille\.android\build-cache\8807c9ecb982de9b63de2967b3865592717f9e85\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\build\intermediates\pre-dexed\debug\classes_5bdbf4333c680d51ae223af6f3a14a59140d82cf.jar" />
+    </item>
+
+</items>

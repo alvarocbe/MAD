@@ -1,0 +1,4 @@
+#Fri Apr 28 16:53:54 CEST 2017
+base.0=C\:\\SeanKille\\Polito\\MobileAppDev\\Prueba_editSean\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\SeanKille\\Polito\\MobileAppDev\\Prueba_editSean\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

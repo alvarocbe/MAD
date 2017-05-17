@@ -1,0 +1,276 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml
+uses-permison
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:5:20-62
+application
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:7:5-42:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\SeanKille\.android\build-cache\73889c55443dedaa8427c00b9ce2b95733f3f3ed\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\SeanKille\.android\build-cache\8aa6dafeb66f8b4e8bea8123316e0c41588df598\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\SeanKille\.android\build-cache\df7bba1a86319df51e53d7577e5cd6144fe7f57d\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\SeanKille\.android\build-cache\bd12fb743931610c0c66bcf479c221a72ba821e7\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\SeanKille\.android\build-cache\de17ecd776d71f9bf23014aa34c701d37ecbfcb4\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\SeanKille\.android\build-cache\6f99df0f68bded5707a9e92e9cacc3dc912b55b8\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\SeanKille\.android\build-cache\1f155c694c9da168d4dcfae9db3045e8b6652097\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\SeanKille\.android\build-cache\c7497ee970b7989e262bfc5c90ddbc474cd320c0\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\SeanKille\.android\build-cache\8807c9ecb982de9b63de2967b3865592717f9e85\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\SeanKille\.android\build-cache\b3c67e9d88a9ef5e9228ba53a48922e2ee50fe08\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\SeanKille\.android\build-cache\5ab0c82c12348419ee07254894eeb3d0a49cb631\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\SeanKille\.android\build-cache\4a9184e4291c0e8a9aad98ce301610416efc1ded\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\SeanKille\.android\build-cache\c0b3f06e7e8c75c2639f10da6385609b8973ef15\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\SeanKille\.android\build-cache\5f6ddefb1c5297b8cf3514a5f53410f821bab7d3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\SeanKille\.android\build-cache\6df3576af48723d18dc44dcafea612ab7e0e24b2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\SeanKille\.android\build-cache\c8096f55bdaf5aae428456a6484219510a282eb5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\SeanKille\.android\build-cache\7aa35e503ae946cdcbb5d8d61c2c95a72c5a06a8\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:8:9-40
+activity#letsdothis.prueba.MainActivity
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:15:9-34:20
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:15:19-47
+meta-data#DATABASE
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:16:13-18:47
+	android:value
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:18:17-44
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:17:17-40
+meta-data#VERSION
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:19:13-21:37
+	android:value
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:21:17-34
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:20:17-39
+meta-data#QUERY_LOG
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:22:13-24:40
+	android:value
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:24:17-37
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:23:17-41
+meta-data#DOMAIN_PACKAGE_NAME
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:25:13-27:53
+	android:value
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:27:17-50
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:26:17-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:32:27-74
+activity#letsdothis.prueba.NewGroup
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:35:9-46
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:35:19-43
+activity#letsdothis.prueba.GroupOverview
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:36:9-51
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:36:19-48
+activity#letsdothis.prueba.ListOfExpenses
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:37:9-52
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:37:19-49
+activity#letsdothis.prueba.AddExpense
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:38:9-48
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:38:19-45
+activity#letsdothis.prueba.CreateGroup
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:39:9-49
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:39:19-46
+activity#letsdothis.prueba.LoginActivity
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:40:9-51
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:40:19-48
+activity#letsdothis.prueba.AddUser
+ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:41:9-54
+	android:name
+		ADDED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml:41:19-42
+uses-sdk
+INJECTED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\SeanKille\.android\build-cache\73889c55443dedaa8427c00b9ce2b95733f3f3ed\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\SeanKille\.android\build-cache\8aa6dafeb66f8b4e8bea8123316e0c41588df598\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\SeanKille\.android\build-cache\df7bba1a86319df51e53d7577e5cd6144fe7f57d\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\SeanKille\.android\build-cache\bd12fb743931610c0c66bcf479c221a72ba821e7\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.satyan:sugar:1.4] C:\Users\SeanKille\.android\build-cache\83ca373f2fb78d09797260a19aef26349eefca8d\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:10.2.1] C:\Users\SeanKille\.android\build-cache\de17ecd776d71f9bf23014aa34c701d37ecbfcb4\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\SeanKille\.android\build-cache\6f99df0f68bded5707a9e92e9cacc3dc912b55b8\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.1] C:\Users\SeanKille\.android\build-cache\1f155c694c9da168d4dcfae9db3045e8b6652097\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\SeanKille\.android\build-cache\c7497ee970b7989e262bfc5c90ddbc474cd320c0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.1] C:\Users\SeanKille\.android\build-cache\8807c9ecb982de9b63de2967b3865592717f9e85\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\SeanKille\.android\build-cache\b3c67e9d88a9ef5e9228ba53a48922e2ee50fe08\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\SeanKille\.android\build-cache\5ab0c82c12348419ee07254894eeb3d0a49cb631\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\SeanKille\.android\build-cache\4a9184e4291c0e8a9aad98ce301610416efc1ded\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\SeanKille\.android\build-cache\c0b3f06e7e8c75c2639f10da6385609b8973ef15\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\SeanKille\.android\build-cache\5f6ddefb1c5297b8cf3514a5f53410f821bab7d3\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\SeanKille\.android\build-cache\6df3576af48723d18dc44dcafea612ab7e0e24b2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\SeanKille\.android\build-cache\c8096f55bdaf5aae428456a6484219510a282eb5\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\SeanKille\.android\build-cache\7aa35e503ae946cdcbb5d8d61c2c95a72c5a06a8\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Users\SeanKille\.android\build-cache\73889c55443dedaa8427c00b9ce2b95733f3f3ed\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml
+		INJECTED from C:\SeanKille\Polito\MobileAppDev\Prueba_editSean\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\SeanKille\.android\build-cache\6f99df0f68bded5707a9e92e9cacc3dc912b55b8\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\SeanKille\.android\build-cache\6f99df0f68bded5707a9e92e9cacc3dc912b55b8\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\SeanKille\.android\build-cache\6f99df0f68bded5707a9e92e9cacc3dc912b55b8\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\SeanKille\.android\build-cache\6f99df0f68bded5707a9e92e9cacc3dc912b55b8\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\SeanKille\.android\build-cache\c7497ee970b7989e262bfc5c90ddbc474cd320c0\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\SeanKille\.android\build-cache\c7497ee970b7989e262bfc5c90ddbc474cd320c0\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\SeanKille\.android\build-cache\c7497ee970b7989e262bfc5c90ddbc474cd320c0\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\SeanKille\.android\build-cache\c7497ee970b7989e262bfc5c90ddbc474cd320c0\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.1] C:\Users\SeanKille\.android\build-cache\c7497ee970b7989e262bfc5c90ddbc474cd320c0\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.1] C:\Users\SeanKille\.android\build-cache\a81502b3d381515e6f40a4fa9d1484ca0e50d7f5\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.1] C:\Users\SeanKille\.android\build-cache\5cb4a6b5a196d46ef8b5a176eecdd547f5666124\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\SeanKille\.android\build-cache\8807c9ecb982de9b63de2967b3865592717f9e85\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\SeanKille\.android\build-cache\8807c9ecb982de9b63de2967b3865592717f9e85\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\SeanKille\.android\build-cache\8807c9ecb982de9b63de2967b3865592717f9e85\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\SeanKille\.android\build-cache\8807c9ecb982de9b63de2967b3865592717f9e85\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.1] C:\Users\SeanKille\.android\build-cache\8807c9ecb982de9b63de2967b3865592717f9e85\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\SeanKille\.android\build-cache\5ab0c82c12348419ee07254894eeb3d0a49cb631\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\SeanKille\.android\build-cache\5ab0c82c12348419ee07254894eeb3d0a49cb631\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\SeanKille\.android\build-cache\5ab0c82c12348419ee07254894eeb3d0a49cb631\output\AndroidManifest.xml:20:20-65
